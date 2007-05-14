@@ -1,0 +1,14 @@
+abstract: Catalyst model for Net::Amazon SOAP interface
+author: Carl Franks, C<cfranks@cpan.org>
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: perl
+name: Catalyst-Model-Net-Amazon
+no_index: 
+  directory: 
+    - t/lib
+    - inc
+    - t
+requires: 
+  perl: 5.8.1
+version: 0.01001
