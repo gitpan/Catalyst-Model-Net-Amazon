@@ -11,7 +11,7 @@ use Catalyst::Utils ();
 use Net::Amazon;
 use NEXT;
 
-our $VERSION = '0.01001';
+our $VERSION = '0.01002';
 
 sub new {
     my $self  = shift->NEXT::new(@_);
